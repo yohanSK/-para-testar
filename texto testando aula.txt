@@ -3,13 +3,11 @@
 <head>
 <tittle>teste</tittle>
 </head>
- <body><h1>isso é um teste</h1> 
+ <body><h1>isso Ã© um teste</h1> 
 <h2>um teste para testar>
 <h3> algo do tipo<h3>
 <h4>se funcionar<h4>
 <h5>eu vou estar feliz<h5>
 <h6>para caramba<h6>
-
-
 </body>
 </html>
